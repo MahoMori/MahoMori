@@ -1,6 +1,6 @@
 Hi, I'm Maho!😺  
 <br>
-I'm a web app development student in Vancouver focusing on React. Having started tech path last year, I am full of ambitions and passionate about coding.  
+I'm a tech student learning web application development in Vancouver focusing on React. Having started tech path last year, I am full of ambitions and passionate about coding.  
 I come from an editorial and English-Japanese translation background. I personally feel they all have something in common, which is, "language".  
 They consist of grammars and words, and as a bookworm who devoted my childhood to reading, I am fascinated how we can write code to create numerous things with my fingers (keyboards and the laptop too)!  
 <br>
