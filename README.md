@@ -16,7 +16,7 @@ Hope to get more and more involved in this tech world!
 
 **Languages** - Javascript, HTML5, CSS3, SCSS  
 **Frameworks and Libraries** - React, Material UI  
-**Systems and Databases** - Git/Github, mongoDB(mongoose)  
+**Systems and Databases** - Git/Github
 **Other** - Illustrator, Photoshop, Microsoft Office
 
 
