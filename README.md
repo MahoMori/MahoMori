@@ -14,11 +14,10 @@ Hope to get more and more involved in this tech world!
 <br>
 <br>
 
-**Languages** - HTML5, CSS3, SCSS, JavaScript, TypeScript, GraphQL, Node.js<br>
-**Frameworks and Libraries** - React.js, Redux, Material UI, styled-components, Express<br>
-**Systems and Databases** - Git/Github, MongoDB/Mongoose, Firebase<br>
-**Other** - Agile, Figma, Illustrator, Photoshop, Microsoft Office<br>
-
+**Languages** - HTML5, CSS3, SCSS, JavaScript, TypeScript, Node.js<br>
+**Frameworks and Libraries** - React.js/Redux, Material UI, styled-components, Express<br>
+**Design Software** - Figma, Illustrator, Photoshop<br>
+**Other** - Git/GitHub, AWS, Agile, Microsoft Office
 
 
 
